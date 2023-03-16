@@ -4,6 +4,8 @@
 
 O trabalho consistia em criar aplicações através do Node no CSS. Contribui nas funções e aplicabilidades do Node.js e JSON, permitindo reutilizar da melhor maneira os recursos do desenvolvedor.  
 
+## Objetivos: 🚀
+O objetivo aqui é apresentar a aplicabilidade capaz de interagir com CSS, filtragem e pesquisa dos dados.
 
 A principal característica que diferencia o Node do JS de outras tecnologias, como PHP, Java, C#, é o fato de sua execução ser single-thread. Ou seja, apenas uma thread é responsável por executar o código Javascript da aplicação, enquanto que nas outras linguagens a execução é multi-thread.
 
